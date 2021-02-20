@@ -1,4 +1,4 @@
 #####cloud自用
-DOMAIN-SUFFIX, lotusdininggroup.com, proxy
-DOMAIN-SUFFIX, fontawesome.com, proxy
-DOMAIN-SUFFIX, lotusdining.com.au, proxy
+HOST-SUFFIX, lotusdininggroup.com, proxy
+HOST-SUFFIX, fontawesome.com, proxy
+HOST-SUFFIX, lotusdining.com.au, proxy
